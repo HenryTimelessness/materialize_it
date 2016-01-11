@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Materialize generator for rails}
   spec.description   = %q{Once you install this gem following the steps, you will be able to generate beautiful materialize views with scaffol}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/HenryTimelessness/materialize_it"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
