@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["henrychuahb@gmail.com"]
 
   spec.summary       = %q{Materialize generator for rails}
-  spec.description   = %q{Once you install this gem following the steps, you will be able to generate beautiful materialize views with scaffol}
+  spec.description   = %q{This gem is currently in development}
   spec.homepage      = "https://github.com/HenryTimelessness/materialize_it"
   spec.license       = "MIT"
 
